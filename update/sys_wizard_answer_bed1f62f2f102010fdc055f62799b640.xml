@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Pinot Base</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Pinot Base</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">756987a41b210010eb1dfc88cc4bcbbe</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-11 23:32:16</sys_created_on>
+        <sys_id>bed1f62f2f102010fdc055f62799b640</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Pinot Base</sys_name>
+        <sys_package display_value="Knowget" source="x_145831_knowget">702a765c2f635010fdc055f62799b66e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Knowget">702a765c2f635010fdc055f62799b66e</sys_scope>
+        <sys_update_name>sys_wizard_answer_bed1f62f2f102010fdc055f62799b640</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-11 23:32:16</sys_updated_on>
+        <table/>
+        <target_url>x_145831_knowget_pinot_base.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

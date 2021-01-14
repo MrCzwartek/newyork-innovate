@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="Knowget">9bec76d82fe75010fdc055f62799b6bf</applet_launcher>
+        <icon display_value="Home Knowget">d3ec76d82fe75010fdc055f62799b6c1</icon>
+        <label>Knowget</label>
+        <roles>x_145831_knowget.kgs_user,x_145831_knowget.kgs_didactic,x_145831_knowget.kgs_student,x_145831_knowget.kgs_manager,x_145831_knowget.kgs_admin,x_145831_knowget.kgs_sme</roles>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-25 15:13:17</sys_created_on>
+        <sys_id>93ec76d82fe75010fdc055f62799b6c1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Knowget</sys_name>
+        <sys_package display_value="Knowget" source="x_145831_knowget">702a765c2f635010fdc055f62799b66e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Knowget">702a765c2f635010fdc055f62799b66e</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_93ec76d82fe75010fdc055f62799b6c1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-25 15:13:17</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>

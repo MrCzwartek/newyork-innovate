@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Knowledge Budget Solution</description>
+        <device_type>browser</device_type>
+        <hint>Knowledge Budget Solution</hint>
+        <name/>
+        <order/>
+        <roles>x_145831_knowget.kgs_user,x_145831_knowget.kgs_didactic,x_145831_knowget.kgs_student,x_145831_knowget.kgs_manager,x_145831_knowget.kgs_admin,x_145831_knowget.kgs_sme</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-25 15:06:34</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c16b36102fa35010fdc055f62799b61b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>KnowGet</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Knowget" source="x_145831_knowget">702a765c2f635010fdc055f62799b66e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Knowget">702a765c2f635010fdc055f62799b66e</sys_scope>
+        <sys_update_name>sys_app_application_c16b36102fa35010fdc055f62799b61b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-25 15:06:34</sys_updated_on>
+        <title>KnowGet</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
