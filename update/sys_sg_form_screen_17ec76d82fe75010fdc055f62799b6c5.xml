@@ -8,20 +8,20 @@
         <hide_filters>false</hide_filters>
         <icon display_value="icon-Knowledge">53ec76d82fe75010fdc055f62799b6bf</icon>
         <item_view display_value="Knowledge Detail Screen Item View">d3ec76d82fe75010fdc055f62799b6c4</item_view>
-        <name>Knowledge Form Screen</name>
+        <name>Knowledges</name>
         <roles_override/>
         <sys_class_name>sys_sg_form_screen</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-09-25 15:13:17</sys_created_on>
         <sys_id>17ec76d82fe75010fdc055f62799b6c5</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Knowledge Form Screen</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Knowledges</sys_name>
         <sys_package display_value="Knowget" source="x_145831_knowget">702a765c2f635010fdc055f62799b66e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Knowget">702a765c2f635010fdc055f62799b66e</sys_scope>
         <sys_update_name>sys_sg_form_screen_17ec76d82fe75010fdc055f62799b6c5</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-09-25 15:13:17</sys_updated_on>
+        <sys_updated_on>2021-01-14 11:18:07</sys_updated_on>
         <table>kb_knowledge</table>
     </sys_sg_form_screen>
     <sys_translated_text action="delete_multiple" query="documentkey=17ec76d82fe75010fdc055f62799b6c5"/>

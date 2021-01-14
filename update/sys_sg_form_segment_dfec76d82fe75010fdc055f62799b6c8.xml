@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
     <sys_sg_form_segment action="INSERT_OR_UPDATE">
         <embedded_screen display_value="Details">1fec76d82fe75010fdc055f62799b6c5</embedded_screen>
-        <form display_value="Knowledge Form Screen">17ec76d82fe75010fdc055f62799b6c5</form>
+        <form display_value="Knowledges">17ec76d82fe75010fdc055f62799b6c5</form>
         <order>10</order>
         <sys_class_name>sys_sg_form_segment</sys_class_name>
         <sys_created_by>admin</sys_created_by>
